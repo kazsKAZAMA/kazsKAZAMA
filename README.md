@@ -1,13 +1,14 @@
-Hi 👋, I'm Ken Kazma.
+# kazsKAZAMA/README.md
 
-Senior Expert (SRE) at WED, Inc.
+## Hi 👋, I'm Ken Kazama
 
-Areas of Expertise:
+### Technical Consultant & Infrastructure Advisor
+
+### Areas of Expertise:
 
 - Reliability engineering for product and startup organizations
-
 - Re-architecture and system optimization for public cloud FinOps
-
 - Highly complex database and system migrations
+- Corporate engineering and security implementations
 
-His expertise covers GCP, AWS, and Azure.
+My expertise covers GCP, AWS, and Azure.
